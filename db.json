@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text" :"Doctors appointment",
+      "day" : "Sravan Maah pratham tithi",
+      "reminder" : true
+  },
+  {
+      "id": 2,
+      "text" : "Talk with Vairabhi" ,
+      "day" : "Yesterday",
+      "reminder" : true
+  },
+  {
+      "id": 3,
+      "text" : "Another Doctors appointment",
+      "day" : "Dec 5th",
+      "reminder" : false
+  },
+  {
+    "id": 4,
+    "text" :"Trip to Sikkim",
+    "day" : "Dec 5th",
+    "reminder" : false
+  }
+  ]
+}
